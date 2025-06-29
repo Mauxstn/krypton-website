@@ -1,1 +1,1 @@
-# krypton-website
+# krypton
