@@ -1,6 +1,6 @@
-# Krypton Website 🎮
+# Krypton Website 
 
-Eine moderne, responsive Personal Website für Krypton - Gaming Enthusiast, VR-Liebhaber und Content Creator.
+
 
 ## ✨ Features
 
@@ -57,75 +57,6 @@ krypton-website/
     └── kaneki.mp4      # Hero-Video
 ```
 
-## 🚀 Installation & Setup
-
-### Voraussetzungen
-- Node.js (Version 14 oder höher)
-- npm oder yarn
-
-### Installation
-
-1. **Repository klonen**
-   ```bash
-   git clone https://github.com/yourusername/krypton-website.git
-   cd krypton-website
-   ```
-
-2. **Dependencies installieren**
-   ```bash
-   npm install
-   ```
-
-3. **Entwicklungsserver starten**
-   ```bash
-   npm run dev
-   ```
-
-4. **Website öffnen**
-   - Öffne http://localhost:3000 in deinem Browser
-
-### Build & Deployment
-
-```bash
-# Code formatieren
-npm run format
-
-# Linting
-npm run lint
-
-# Build erstellen
-npm run build
-
-# Deployment (anpassen für deinen Hosting-Service)
-npm run deploy
-```
-
-## 🎨 Customization
-
-### Farben anpassen
-Die Farben können in der `styles.css` Datei angepasst werden:
-
-```css
-:root {
-    --primary: #dc2626;        /* Hauptfarbe */
-    --accent: #fbbf24;         /* Akzentfarbe */
-    --bg-dark: #0a0a0a;        /* Hintergrund */
-    --text-primary: #ffffff;   /* Haupttext */
-}
-```
-
-### Inhalte bearbeiten
-- **Personal Info**: Bearbeite die Sektionen in `index.html`
-- **Equipment**: Ändere die Equipment-Liste in `script.js`
-- **Social Links**: Aktualisiere die Social Media Links
-- **Stats**: Passe die Gaming-Statistiken an
-
-### Bilder & Assets
-- **Avatar**: Ersetze die Discord-Avatar-URL
-- **Hero Video**: Tausche das `kaneki.mp4` Video aus
-- **Icons**: Verwende Lucide Icons oder eigene Icons
-
-## 📱 Responsive Breakpoints
 
 - **Mobile**: < 768px
 - **Tablet**: 768px - 1024px
@@ -170,17 +101,6 @@ Die Farben können in der `styles.css` Datei angepasst werden:
 - Semantic HTML
 - BEM CSS Methodology
 
-### Testing
-```bash
-# Code Linting
-npm run lint
-
-# Format Check
-npm run format
-
-# Browser Testing
-# Teste in Chrome, Firefox, Safari, Edge
-```
 
 ## 📈 Analytics & Monitoring
 
@@ -190,44 +110,13 @@ npm run format
 - Performance Monitoring
 - Error Tracking
 
-## 🚀 Deployment
-
-### Empfohlene Hosting Services:
-- **Netlify** - Einfach und schnell
-- **Vercel** - Optimiert für Performance
-- **GitHub Pages** - Kostenlos für Open Source
-- **Firebase Hosting** - Google Cloud Integration
-
-### Deployment Commands:
-```bash
-# Netlify
-netlify deploy
-
-# Vercel
-vercel
-
-# GitHub Pages
-npm run deploy
 ```
 
-## 🤝 Contributing
-
-1. Fork das Repository
-2. Erstelle einen Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit deine Änderungen (`git commit -m 'Add some AmazingFeature'`)
-4. Push zum Branch (`git push origin feature/AmazingFeature`)
-5. Öffne einen Pull Request
 
 ## 📄 License
 
 Dieses Projekt ist unter der MIT License lizenziert - siehe [LICENSE](LICENSE) Datei für Details.
 
-## 🙏 Credits
-
-- **Icons**: [Lucide](https://lucide.dev/)
-- **Fonts**: [Inter](https://rsms.me/inter/)
-- **CSS Framework**: [Tailwind CSS](https://tailwindcss.com/)
-- **Charts**: [Chart.js](https://www.chartjs.org/)
 
 ## 📞 Kontakt
 
@@ -238,4 +127,5 @@ Dieses Projekt ist unter der MIT License lizenziert - siehe [LICENSE](LICENSE) D
 
 ---
 
-**Entwickelt mit ❤️ für die Gaming Community**
+**Entwickelt für Krypton
+
