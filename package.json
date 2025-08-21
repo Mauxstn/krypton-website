@@ -1,0 +1,47 @@
+{
+  "name": "krypton-website",
+  "version": "2.0.0",
+  "description": "Modern personal website for Krypton - Gaming enthusiast and content creator",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/",
+    "build": "echo 'Build complete - static site ready'",
+    "lint": "eslint script.js",
+    "format": "prettier --write *.js *.css *.html",
+    "optimize": "echo 'Optimizing images and assets...'",
+    "deploy": "echo 'Deploy to your hosting service'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "gaming",
+    "portfolio",
+    "personal-website",
+    "vr",
+    "streaming",
+    "modern-web"
+  ],
+  "author": "Krypton",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/krypton-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/krypton-website/issues"
+  },
+  "homepage": "https://krypton-website.com",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "eslint": "^8.0.0",
+    "prettier": "^2.8.0"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
